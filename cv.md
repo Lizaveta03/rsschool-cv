@@ -1,6 +1,6 @@
 # CV of Lizaveta Bazyleva
 Lizaveta Bazyleva
-![alt text](https://github.com/Lizaveta03/rsschool-cv]/blob/gh-pages/avatar.jpeg?raw=true)
+![alt text](https://github.com/Lizaveta03/rsschool-cv/blob/gh-pages/images/avatar.jpeg?raw=true)
 ## Mail
 lizabazyleva03@gmail.com
 ## Phone number 
